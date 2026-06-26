@@ -5,7 +5,7 @@
 
 # Awesome Krea 2 LoRAs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **619** style LoRAs for [Krea 2](https://huggingface.co/krea/Krea-2-Turbo), trained and served on [fal](https://fal.ai). Every entry links to a Hugging Face repo with the weights, a model card, and copy-paste fal usage.
+> A curated list of **768** style LoRAs for [Krea 2](https://huggingface.co/krea/Krea-2-Turbo), trained and served on [fal](https://fal.ai). Every entry links to a Hugging Face repo with the weights, a model card, and copy-paste fal usage.
 
 [![Run on fal.ai](https://img.shields.io/badge/Run_on-fal.ai-FF6B35?style=flat-square)](https://fal.ai/models/fal-ai/krea-2/turbo/lora) [![Train on fal.ai](https://img.shields.io/badge/Train_on-fal.ai-FF6B35?style=flat-square)](https://fal.ai/models/fal-ai/krea-2-trainer) [![Krea 2](https://img.shields.io/badge/base-Krea_2_Turbo-7C5CFF?style=flat-square)](https://huggingface.co/krea/Krea-2-Turbo) [![HF index](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_index-yellow?style=flat-square)](https://huggingface.co/ilkerzgi/fal-Krea-2-Style-LoRAs)
 
@@ -26,13 +26,13 @@ print(result["images"][0]["url"])
 
 ## Contents
 
-- [3D Render](#3d-render) (44)
-- [Cinematic](#cinematic) (59)
-- [Drawing](#drawing) (34)
-- [Graphic](#graphic) (61)
-- [Illustration](#illustration) (250)
-- [Painterly](#painterly) (95)
-- [Photographic](#photographic) (76)
+- [3D Render](#3d-render) (63)
+- [Cinematic](#cinematic) (63)
+- [Drawing](#drawing) (49)
+- [Graphic](#graphic) (71)
+- [Illustration](#illustration) (308)
+- [Painterly](#painterly) (122)
+- [Photographic](#photographic) (92)
 
 ## 3D Render
 
@@ -77,11 +77,30 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc29c/NTyrUeVm8KeitL98G50lw_FJowSD3e.jpg" width="96"> | [Golden Fractal Light Trails](https://huggingface.co/ilkerzgi/krea-2-golden-fractal-light-trails-lora) | `golden fractal light trails style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc285/CwthxANNwZ4Z1uSp9jLa5_oUjAc2kq.jpg" width="96"> | [Green Red Retro Surreal](https://huggingface.co/ilkerzgi/krea-2-green-red-retro-surreal-lora) | `green red retro surreal style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1d4/3vV2JuR5YuStPcL8QG-WY_HCEI3cKz.png" width="96"> | [Handmade Clay Diorama](https://huggingface.co/ilkerzgi/krea-2-handmade-clay-diorama-lora) | `handmade clay diorama style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcde6/nuYX0AgqjR6-iuwTed9Jz_dO3unQC5.jpg" width="96"> | [Holographic Pink Bubble](https://huggingface.co/ilkerzgi/krea-2-holographic-pink-bubble-lora) | `holographic pink bubble style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0ba/c1YbjPtT54SORJfMnY3bo_dWlqIDQw.jpg" width="96"> | [Icy Blue Dreamy Render](https://huggingface.co/ilkerzgi/krea-2-icy-blue-dreamy-render-lora) | `icy blue dreamy render style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0ff/lEWBIS-uEpSqudD3tEAuD_J8BvZlXL.jpg" width="96"> | [Iridescent Chrome Holographic](https://huggingface.co/ilkerzgi/krea-2-iridescent-chrome-holographic-lora) | `iridescent chrome holographic style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0ef/v1BSXSuhOF2lam-Y7AYZI_dl6vahXy.jpg" width="96"> | [Iridescent Chrome Tropical Render](https://huggingface.co/ilkerzgi/krea-2-iridescent-chrome-tropical-render-lora) | `iridescent chrome tropical render style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc135/c2_7U6_g8U0JNzNuxzrNg_I5d702zL.jpg" width="96"> | [Iridescent Dark Surreal](https://huggingface.co/ilkerzgi/krea-2-iridescent-dark-surreal-lora) | `iridescent dark surreal style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd263/aajJXeyGICnm4QSvRBg5f_FQQCtsXt.jpg" width="96"> | [Iridescent Dreamscape Reflection](https://huggingface.co/ilkerzgi/krea-2-iridescent-dreamscape-reflection-lora) | `iridescent dreamscape reflection style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcc54/YupRX6_lXXyqwGk_ZiXNK_rDuIB6Jn.jpg" width="96"> | [Iridescent Glitter Lavender](https://huggingface.co/ilkerzgi/krea-2-iridescent-glitter-lavender-lora) | `iridescent glitter lavender style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd0cc/1aVhhizRG5y7aUcB-lGSZ_2mkKLoAB.jpg" width="96"> | [Iridescent Holographic Glow](https://huggingface.co/ilkerzgi/krea-2-iridescent-holographic-glow-lora) | `iridescent holographic glow style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc10b/-qLmLS2zXvdTVlaKM5Raw_Ethh3B5Q.jpg" width="96"> | [Iridescent Mosaic Glitter](https://huggingface.co/ilkerzgi/krea-2-iridescent-mosaic-glitter-lora) | `iridescent mosaic glitter style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd55/caDzOdURc7KFh3MrQyNRh_rbhznuWZ.jpg" width="96"> | [Iridescent Pastel Diffusion](https://huggingface.co/ilkerzgi/krea-2-iridescent-pastel-diffusion-lora) | `iridescent pastel diffusion style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0da/OdCBkoXYjjCMFSOA4OOnC_3OX7irqc.jpg" width="96"> | [Iridescent Pastel Dreamscape](https://huggingface.co/ilkerzgi/krea-2-iridescent-pastel-dreamscape-lora) | `iridescent pastel dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc226/tcb7Jd0UWpKgNpJK9_3cJ_gX66QRSK.jpg" width="96"> | [Iridescent Pearl Diffusion](https://huggingface.co/ilkerzgi/krea-2-iridescent-pearl-diffusion-lora) | `iridescent pearl diffusion style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0c5/UG2DkEXqPMp9A0eQlxSZC_HIbEIBG7.jpg" width="96"> | [Iridescent Pink Dreamscape](https://huggingface.co/ilkerzgi/krea-2-iridescent-pink-dreamscape-lora) | `iridescent pink dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0d1/0bNe0bNu-RC9P-sUpD87h_y5SSt0S8.jpg" width="96"> | [Iridescent Prismatic Overexposed](https://huggingface.co/ilkerzgi/krea-2-iridescent-prismatic-overexposed-lora) | `iridescent prismatic overexposed style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcfe8/59jIymRNYur8RodM4O5tn_kaHd1OXK.jpg" width="96"> | [Iridescent Victorian Opulent](https://huggingface.co/ilkerzgi/krea-2-iridescent-victorian-opulent-lora) | `iridescent victorian opulent style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc152/2WRGSr97-s8uHrtmfuQ-D_6qnFQ0Zm.jpg" width="96"> | [Lavender Gloss Render](https://huggingface.co/ilkerzgi/krea-2-lavender-gloss-render-lora) | `lavender gloss render style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc111/jwt50YR7npHguZF7BtrGF_4RnjGL4H.jpg" width="96"> | [Layered Cardboard Diorama](https://huggingface.co/ilkerzgi/krea-2-layered-cardboard-diorama-lora) | `layered cardboard diorama style` |
+| <img src="https://v3b.fal.media/files/b/0a9fca52/cs8VOWJWnD-wJ-dS19bMM_B6FriH7I.jpg" width="96"> | [Layered Paper Craft Render](https://huggingface.co/ilkerzgi/krea-2-layered-paper-craft-render-lora) | `layered paper craft render style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0f8/bq4tUraZUmgm14MhAhitm_cUUopB7f.jpg" width="96"> | [Layered Papercraft Diorama](https://huggingface.co/ilkerzgi/krea-2-layered-papercraft-diorama-lora) | `layered papercraft diorama style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcbcd/3FgH0bhev7huWjdlm1XIt_bxJs3GSH.jpg" width="96"> | [Liquid Chrome Mirror](https://huggingface.co/ilkerzgi/krea-2-liquid-chrome-mirror-lora) | `liquid chrome mirror style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc13f/cr8YyCgsRQ09ZacXBAZzf_jWXUTZNh.jpg" width="96"> | [Luminous Midnight Nature](https://huggingface.co/ilkerzgi/krea-2-luminous-midnight-nature-lora) | `luminous midnight nature style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc2a4/cCwoc40sd68w2ETkiOm9j_3AmldASs.jpg" width="96"> | [Mint Pastel Dreamscape](https://huggingface.co/ilkerzgi/krea-2-mint-pastel-dreamscape-lora) | `mint pastel dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa181/i8be7Oo5GMSRp1CwvobQV_7E45jAEe.png" width="96"> | [Mint Peach Diorama](https://huggingface.co/ilkerzgi/krea-2-mint-peach-diorama-lora) | `mint peach diorama style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc83b/UqsShTBAusgftH-LXN1Sf_0QFp8B3U.jpg" width="96"> | [Misty Geometric Dreamscape](https://huggingface.co/ilkerzgi/krea-2-misty-geometric-dreamscape-lora) | `misty geometric dreamscape style` |
 
 ## Cinematic
 
@@ -146,6 +165,10 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc215/2OWxF_i_jA42pLenit_Ug_hbwCXJpA.jpg" width="96"> | [Golden Teal Retro Glamour](https://huggingface.co/ilkerzgi/krea-2-golden-teal-retro-glamour-lora) | `golden teal retro glamour style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc8fd/o4mdiqPJMkwZpEM8fLI2n_1OuF1m9t.jpg" width="96"> | [Grainy Super Surveillance](https://huggingface.co/ilkerzgi/krea-2-grainy-super-surveillance-lora) | `grainy super surveillance style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcf42/3J1V6AQkTby-up_pWdcDA_LLRgKoPC.jpg" width="96"> | [Hazy Retro Surreal](https://huggingface.co/ilkerzgi/krea-2-hazy-retro-surreal-lora) | `hazy retro surreal style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc120/h9Rb4o8Z9UBYz_on9tZBQ_wOVN2f2H.jpg" width="96"> | [Magenta Fog Neon](https://huggingface.co/ilkerzgi/krea-2-magenta-fog-neon-lora) | `magenta fog neon style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc11e/2cjoFYuV3R5mTwdqbxk6z_FdoRJzUk.jpg" width="96"> | [Magenta Neon Fog](https://huggingface.co/ilkerzgi/krea-2-magenta-neon-fog-lora) | `magenta neon fog style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa136/2lGaxVBy-QJoRglgTeuro_gHfJjlTY.png" width="96"> | [Magenta Noir Glow](https://huggingface.co/ilkerzgi/krea-2-magenta-noir-glow-lora) | `magenta noir glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa201/oCwAk2gkJOkgnpvxmsvCx_wvLWO4lQ.png" width="96"> | [Midnight Cel Noir](https://huggingface.co/ilkerzgi/krea-2-midnight-cel-noir-lora) | `midnight cel noir style` |
 
 ## Drawing
 
@@ -184,7 +207,22 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9f9dc3/23VD0-fW6cIL9flhuoDwI_MqTqvuwH.png" width="96"> | [Glowing Amber Linework](https://huggingface.co/ilkerzgi/krea-2-glowing-amber-linework-lora) | `glowing amber linework style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9ddb/jhlnZm69NA1lRKRvPFnzj_c4XOqWSG.png" width="96"> | [Glowing Ember Linework](https://huggingface.co/ilkerzgi/krea-2-glowing-ember-linework-lora) | `glowing ember linework style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa239/85VXjMj63Xt2TaDLK7VDG_xV9LVSdD.png" width="96"> | [Halftone Inkwash Sketch](https://huggingface.co/ilkerzgi/krea-2-halftone-inkwash-sketch-lora) | `halftone inkwash sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1f8/g2yiKYot2xafJ0CDVWLfc_tL230zUC.png" width="96"> | [Hatched Linocut Bloom](https://huggingface.co/ilkerzgi/krea-2-hatched-linocut-bloom-lora) | `hatched linocut bloom style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9c9b/eQJXZrUVOg2SEDYJWaDh-_6rNbmsgq.png" width="96"> | [Hazy Scribbled Pastel](https://huggingface.co/ilkerzgi/krea-2-hazy-scribbled-pastel-lora) | `hazy scribbled pastel style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1fa/Kn1sayUN6NbkP_juZU29f_CzeTKr5r.png" width="96"> | [Indigo Coral Hatching](https://huggingface.co/ilkerzgi/krea-2-indigo-coral-hatching-lora) | `indigo coral hatching style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa200/fVZS8xdmud7W4RJSmQN9A_mvW9j3GP.png" width="96"> | [Inked Comic Crosshatch](https://huggingface.co/ilkerzgi/krea-2-inked-comic-crosshatch-lora) | `inked comic crosshatch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1dc/UodwC3q8UyMg8PjTQ-I0B_9FnIUQKT.png" width="96"> | [Inky Woodcut Sketch](https://huggingface.co/ilkerzgi/krea-2-inky-woodcut-sketch-lora) | `inky woodcut sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c9a/sTxWNwJXIqIxkBNWpIm-P_v2stLdy8.png" width="96"> | [Ivory Inkline Reverie](https://huggingface.co/ilkerzgi/krea-2-ivory-inkline-reverie-lora) | `ivory inkline reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc20a/NzLQ-l5DCM7uZQmdCbsMD_ilZetFi8.jpg" width="96"> | [Loose Animation Pencil](https://huggingface.co/ilkerzgi/krea-2-loose-animation-pencil-lora) | `loose animation pencil style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c88/CWP2m7XZB9u6xIud49Zia_QEQUMyf2.png" width="96"> | [Loose Coral Ink Sketch](https://huggingface.co/ilkerzgi/krea-2-loose-coral-ink-sketch-lora) | `loose coral ink sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc1df/iCq6RatPJvJTQkq5TgDFx_G6u2pnwf.jpg" width="96"> | [Loose Gestural Monochrome Sketch](https://huggingface.co/ilkerzgi/krea-2-loose-gestural-monochrome-sketch-lora) | `loose gestural monochrome sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dc4/h9MA3TLIditi6oh44pGlh_ijYHOYOP.png" width="96"> | [Loose Ink Concept Sketch](https://huggingface.co/ilkerzgi/krea-2-loose-ink-concept-sketch-lora) | `loose ink concept sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc143/Lxl8taqXV8GKs_0zF67ds_cM7TgLuT.jpg" width="96"> | [Loose Ink Scrawl](https://huggingface.co/ilkerzgi/krea-2-loose-ink-scrawl-lora) | `loose ink scrawl style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc144/zrJMFmqWfMcwCyrN4Hua8_byA5A7RL.jpg" width="96"> | [Loose Ink Sketch](https://huggingface.co/ilkerzgi/krea-2-loose-ink-sketch-lora) | `loose ink sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0d5/uc055G6n6KQHG2S2fuLrG_en1Wqhq6.jpg" width="96"> | [Loose Ink Sketchbook](https://huggingface.co/ilkerzgi/krea-2-loose-ink-sketchbook-lora) | `loose ink sketchbook style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa16c/rE6IKgBsikjeBA9LzM2J6_bWaISqrZ.png" width="96"> | [Loose Ink Sketchbook](https://huggingface.co/ilkerzgi/krea-2-loose-ink-sketchbook-lora) | `loose ink sketchbook style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa167/_oZaNZspbtrIRnT-HlUhu_Li3ugeO0.png" width="96"> | [Loose Ink Sketchbook](https://huggingface.co/ilkerzgi/krea-2-loose-ink-sketchbook-lora) | `loose ink sketchbook style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa220/H0eSZyFhgZDtmJzOe7QeA_EflmvJIX.png" width="96"> | [Luminous Crystalline Bokeh](https://huggingface.co/ilkerzgi/krea-2-luminous-crystalline-bokeh-lora) | `luminous crystalline bokeh style` |
 
 ## Graphic
 
@@ -241,16 +279,26 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9f9dd3/kRBYA8j9Vf6XYmlDg0nDb_hI60gGtW.png" width="96"> | [Engraved Blueprint Stipple](https://huggingface.co/ilkerzgi/krea-2-engraved-blueprint-stipple-lora) | `engraved blueprint stipple style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1d2/moQV7hqJ2521aA4EqZC3b_M7970lMW.png" width="96"> | [Geometric Color Block](https://huggingface.co/ilkerzgi/krea-2-geometric-color-block-lora) | `geometric color block style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9cc7/zQYjNS60wPlVnSclR1syq_LxyEqCgd.png" width="96"> | [Geometric Forest Collage](https://huggingface.co/ilkerzgi/krea-2-geometric-forest-collage-lora) | `geometric forest collage style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c89/tnn4qjzEbsIxRb0tkuqN9_xAPwiETA.png" width="96"> | [Golden Deco Fable](https://huggingface.co/ilkerzgi/krea-2-golden-deco-fable-lora) | `golden deco fable style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1c5/VxaXHyrdlNBG9UsrCPzyp_YYSQ9zi5.png" width="96"> | [Golden Wireframe Blueprint](https://huggingface.co/ilkerzgi/krea-2-golden-wireframe-blueprint-lora) | `golden wireframe blueprint style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcb82/W4yOxO23C3gDCg-TSwNEI_9jy2R2S4.jpg" width="96"> | [Golden Woodblock Ukiyo](https://huggingface.co/ilkerzgi/krea-2-golden-woodblock-ukiyo-lora) | `golden woodblock ukiyo style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0d1/kWIKaI8_x-H1B7QcJ_3H8_IgNQHubA.jpg" width="96"> | [Grainy Green Collage](https://huggingface.co/ilkerzgi/krea-2-grainy-green-collage-lora) | `grainy green collage style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc208/YtjFsgJh5GMmIOoeTCIq__Fr2wPdYC.jpg" width="96"> | [Grey Surreal Dissolve](https://huggingface.co/ilkerzgi/krea-2-grey-surreal-dissolve-lora) | `grey surreal dissolve style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa16f/l_kTt1iHwoeqt0V5zQyd__YBxzyWxj.png" width="96"> | [Grunge Collage Palette Knife](https://huggingface.co/ilkerzgi/krea-2-grunge-collage-palette-knife-lora) | `grunge collage palette knife style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc23f/jzjEpBKknNhaQ80SSvtPt_Chm15gVt.jpg" width="96"> | [Halftone Chromatic Japanese Poster](https://huggingface.co/ilkerzgi/krea-2-halftone-chromatic-japanese-poster-lora) | `halftone chromatic japanese poster style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0ea/XoPZ8ToUuUnQWqk-eUEK7_Xzna2jTr.jpg" width="96"> | [Halftone Dot Engraving](https://huggingface.co/ilkerzgi/krea-2-halftone-dot-engraving-lora) | `halftone dot engraving style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1c1/x0xslZkDw7ob239qWntoM_O2LtIdUR.png" width="96"> | [Halftone Glitch Collage](https://huggingface.co/ilkerzgi/krea-2-halftone-glitch-collage-lora) | `halftone glitch collage style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9cce/9dJUQ9Dst-dWSZyrvrQJi_1FyatoZb.png" width="96"> | [Halftone Pop Collage](https://huggingface.co/ilkerzgi/krea-2-halftone-pop-collage-lora) | `halftone pop collage style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa17f/_WeWqsBQiBtoy7xegQ2AS_Dy0F8POx.png" width="96"> | [Halftone Pop Print](https://huggingface.co/ilkerzgi/krea-2-halftone-pop-print-lora) | `halftone pop print style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcae5/u3RwvU2EwavdmBu06EL1a_4m2EMFbP.jpg" width="96"> | [Holographic Collage Surreal](https://huggingface.co/ilkerzgi/krea-2-holographic-collage-surreal-lora) | `holographic collage surreal style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd103/ak8JqbaukfNcqQ5LpnB2e_AidcAxGz.jpg" width="96"> | [Hot Coral Duotone Poster](https://huggingface.co/ilkerzgi/krea-2-hot-coral-duotone-poster-lora) | `hot coral duotone poster style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc143/U8gkgk5QXCDxF_gajwPC__bUd6hpQF.jpg" width="96"> | [Hot Pink Collage Graffiti](https://huggingface.co/ilkerzgi/krea-2-hot-pink-collage-graffiti-lora) | `hot pink collage graffiti style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc8d2/t7dzpH6wt_DmjquYSzLgg_wpqvqQx8.jpg" width="96"> | [Hot Pink Duotone Poster](https://huggingface.co/ilkerzgi/krea-2-hot-pink-duotone-poster-lora) | `hot pink duotone poster style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd045/Cxzx5IRyX9rHleLnLZkUq_PuCUdrCW.jpg" width="96"> | [Hot Pink Graffiti Drip](https://huggingface.co/ilkerzgi/krea-2-hot-pink-graffiti-drip-lora) | `hot pink graffiti drip style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1cd/fDcZ0lLaS0mdmin1Q7ckF_01RHMYwi.png" width="96"> | [Hypnotic Monochrome Stripe](https://huggingface.co/ilkerzgi/krea-2-hypnotic-monochrome-stripe-lora) | `hypnotic monochrome stripe style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc135/MHDROIuIsi9aWizEUCrM6_l6qmhdau.jpg" width="96"> | [Layered Papercut Diorama](https://huggingface.co/ilkerzgi/krea-2-layered-papercut-diorama-lora) | `layered papercut diorama style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc26a/7bfQMzomG7k4ONjW3lvPp_a4gdFMYI.jpg" width="96"> | [Layered Papercut Tricolor](https://huggingface.co/ilkerzgi/krea-2-layered-papercut-tricolor-lora) | `layered papercut tricolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1bb/fjnqoBXoK0Y0vzQDvG7cs_TZmRAWH4.png" width="96"> | [Misty Geometric Blueprint](https://huggingface.co/ilkerzgi/krea-2-misty-geometric-blueprint-lora) | `misty geometric blueprint style` |
 
 ## Illustration
 
@@ -296,8 +344,8 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc893/ZQA2kQ4CdYKusWuTGrmz7_4gi3dkrJ.jpg" width="96"> | [Bold Inked Superhero Comic](https://huggingface.co/ilkerzgi/krea-2-bold-inked-superhero-comic-lora) | `bold inked superhero comic style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc117/jX9fwrAZkh8iiolmB0tjC_WKQd08RI.jpg" width="96"> | [Bold Neon Gouache](https://huggingface.co/ilkerzgi/krea-2-bold-neon-gouache-lora) | `bold neon gouache style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc966/ay3BxO_3xve-kl3B5bsay_qo483C8z.jpg" width="96"> | [Bold Pink Yellow Ink](https://huggingface.co/ilkerzgi/krea-2-bold-pink-yellow-ink-lora) | `bold pink yellow ink style` |
-| <img src="https://v3b.fal.media/files/b/0a9fa204/VzT4z79s1eRPLaDSB4leb_dU5MsBw0.png" width="96"> | [Bold Pop Comic](https://huggingface.co/ilkerzgi/krea-2-bold-pop-comic-lora) | `bold pop comic style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9db9/QF14KjF5DmQYJM8vOjXNw_wp7a9vGY.png" width="96"> | [Bold Pop Comic](https://huggingface.co/ilkerzgi/krea-2-bold-pop-comic-lora) | `bold pop comic style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa204/VzT4z79s1eRPLaDSB4leb_dU5MsBw0.png" width="96"> | [Bold Pop Comic](https://huggingface.co/ilkerzgi/krea-2-bold-pop-comic-lora) | `bold pop comic style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa178/1dHZ_unxLXv119tvc3egR_DM6wyqLp.png" width="96"> | [Bold Pop Graphic](https://huggingface.co/ilkerzgi/krea-2-bold-pop-graphic-lora) | `bold pop graphic style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcbbe/eUvfMCgudpot8qoCm1_Gu_DeAdHqKs.jpg" width="96"> | [Bold Primary Marker](https://huggingface.co/ilkerzgi/krea-2-bold-primary-marker-lora) | `bold primary marker style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcf78/jrFVG7w1kz9syOnDb4ZtC_qmVsle8C.jpg" width="96"> | [Bold Primary Sketch](https://huggingface.co/ilkerzgi/krea-2-bold-primary-sketch-lora) | `bold primary sketch style` |
@@ -456,6 +504,7 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9f9dcc/mH9fkEDC_izohddRJCgaw_8aWJaH6u.png" width="96"> | [Glowing Blue Haze](https://huggingface.co/ilkerzgi/krea-2-glowing-blue-haze-lora) | `glowing blue haze style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1f6/znvkWG6zAAM5_yDG9-8d0_SNKU0dhM.png" width="96"> | [Glowing Blue Particle](https://huggingface.co/ilkerzgi/krea-2-glowing-blue-particle-lora) | `glowing blue particle style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1fa/m8NGZsU1zXi_kI0UgNoYR_i9DTtXjE.png" width="96"> | [Glowing Chartreuse Haze](https://huggingface.co/ilkerzgi/krea-2-glowing-chartreuse-haze-lora) | `glowing chartreuse haze style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1e9/tLbb4SVomcuMIHS9As3QY_0R6Kyqu3.png" width="96"> | [Glowing Ember Bokeh](https://huggingface.co/ilkerzgi/krea-2-glowing-ember-bokeh-lora) | `glowing ember bokeh style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa20f/u7oPUnkZsNnATUqm5zeqF_PCLz3AMC.png" width="96"> | [Glowing Ember Fantasy](https://huggingface.co/ilkerzgi/krea-2-glowing-ember-fantasy-lora) | `glowing ember fantasy style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa212/FMxbhMg6udLJo5HUASwfS_Qreg0PGL.png" width="96"> | [Glowing Emerald Nightfall](https://huggingface.co/ilkerzgi/krea-2-glowing-emerald-nightfall-lora) | `glowing emerald nightfall style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa24c/IQq5p2-DUgsnpyUC7Vn3t_ofyLfg9r.png" width="96"> | [Glowing Fairy Lights](https://huggingface.co/ilkerzgi/krea-2-glowing-fairy-lights-lora) | `glowing fairy lights style` |
@@ -464,6 +513,7 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fa207/HxhQP3XvAb9Tasl7cgRN8_Vw2Rx9O9.png" width="96"> | [Glowing Neon Bokeh](https://huggingface.co/ilkerzgi/krea-2-glowing-neon-bokeh-lora) | `glowing neon bokeh style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd0af/42DDbJW52O1eBN_eo_Oza_QkLWSsWP.jpg" width="96"> | [Glowing Nocturnal Dreamscape](https://huggingface.co/ilkerzgi/krea-2-glowing-nocturnal-dreamscape-lora) | `glowing nocturnal dreamscape style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa22e/wsFHrgXNJNlkIBWUw8ePW_JcXk1dx5.png" width="96"> | [Glowing Particle Filament](https://huggingface.co/ilkerzgi/krea-2-glowing-particle-filament-lora) | `glowing particle filament style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa16c/KLkkhDm8iHjq8JJ2hnoQS_LUJvGAiJ.png" width="96"> | [Glowing Sunset Minimalism](https://huggingface.co/ilkerzgi/krea-2-glowing-sunset-minimalism-lora) | `glowing sunset minimalism style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa139/sJ1hPx5uKcb9VzQ-nBm0l_M8Jb1W93.png" width="96"> | [Glowing Violet Wireframe](https://huggingface.co/ilkerzgi/krea-2-glowing-violet-wireframe-lora) | `glowing violet wireframe style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd2be/6EEGbJcTj3yRb37PT7X9B_GwPE8ltY.jpg" width="96"> | [Glowing Whimsical Gouache](https://huggingface.co/ilkerzgi/krea-2-glowing-whimsical-gouache-lora) | `glowing whimsical gouache style` |
 | <img src="https://v3b.fal.media/files/b/0a9fce91/tmzzKB_rjjGsnHtwFm3H4_1tFqEmUZ.jpg" width="96"> | [Golden Blue Anime Gouache](https://huggingface.co/ilkerzgi/krea-2-golden-blue-anime-gouache-lora) | `golden blue anime gouache style` |
@@ -471,23 +521,28 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc203/yNhH2WPGsdnG1Pv4hdK06_i9HCReCx.jpg" width="96"> | [Golden Era Animated Feature](https://huggingface.co/ilkerzgi/krea-2-golden-era-animated-feature-lora) | `golden era animated feature style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd218/zk4SaPzwH7gcP856ceFNz_5TjT3yid.jpg" width="96"> | [Golden Era Cel Animation](https://huggingface.co/ilkerzgi/krea-2-golden-era-cel-animation-lora) | `golden era cel animation style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa240/YolQkjU-7oi-l0UolUd8f_rHkwUGtj.png" width="96"> | [Golden Glitter Dust](https://huggingface.co/ilkerzgi/krea-2-golden-glitter-dust-lora) | `golden glitter dust style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc939/GguSAK2-ASLRvKbzlmYzP_fgA5VeI3.jpg" width="96"> | [Golden Grain Dreamy](https://huggingface.co/ilkerzgi/krea-2-golden-grain-dreamy-lora) | `golden grain dreamy style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1bc/2K_Y_OwyAL3FTMpP7O5rH_95NCsSpW.png" width="96"> | [Golden Hour Chrome Dream](https://huggingface.co/ilkerzgi/krea-2-golden-hour-chrome-dream-lora) | `golden hour chrome dream style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1f4/I4XvcQY2T7PXpbTu5VZgP_Whhb0LpW.png" width="96"> | [Golden Misty Xianxia](https://huggingface.co/ilkerzgi/krea-2-golden-misty-xianxia-lora) | `golden misty xianxia style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1ed/WMz2zUy9U6J7y-tli7izO_U16QyX5F.png" width="96"> | [Golden Ochre Folk](https://huggingface.co/ilkerzgi/krea-2-golden-ochre-folk-lora) | `golden ochre folk style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9dc3/90i9SgjNYohfQh2LWJdbO_Mhb8cEsY.png" width="96"> | [Golden Ornate Glow](https://huggingface.co/ilkerzgi/krea-2-golden-ornate-glow-lora) | `golden ornate glow style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1c3/WruuggH62UeVwLy8IkLt1_k27oHvtK.png" width="96"> | [Golden Shimmer Glow](https://huggingface.co/ilkerzgi/krea-2-golden-shimmer-glow-lora) | `golden shimmer glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa209/qaabuo4odcoJC44LdY6-u_gNw4tJK4.png" width="96"> | [Golden Surreal Dreamscape](https://huggingface.co/ilkerzgi/krea-2-golden-surreal-dreamscape-lora) | `golden surreal dreamscape style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9dd5/E7XrqpbfuNRaPcFuA_cL7_6O13Vvcl.png" width="96"> | [Golden Swirling Shadow](https://huggingface.co/ilkerzgi/krea-2-golden-swirling-shadow-lora) | `golden swirling shadow style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa15d/t_sY5SuKK37aOjapXYgK3_ma2Qt5ll.png" width="96"> | [Golden Tonalist Gloom](https://huggingface.co/ilkerzgi/krea-2-golden-tonalist-gloom-lora) | `golden tonalist gloom style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9c9f/VNj5SiBPwTSpQjYOIOjBl_cTIuLngZ.png" width="96"> | [Gothic Teal Blossom](https://huggingface.co/ilkerzgi/krea-2-gothic-teal-blossom-lora) | `gothic teal blossom style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcea0/pkvdHLWmRdMUsh7e-WIxD_LixM7ZUN.jpg" width="96"> | [Gouache Storybook Garden](https://huggingface.co/ilkerzgi/krea-2-gouache-storybook-garden-lora) | `gouache storybook garden style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc143/XySlnaF3GE1UKKIkvSOk2_4OIZury9.jpg" width="96"> | [Grainy Crayon Folk](https://huggingface.co/ilkerzgi/krea-2-grainy-crayon-folk-lora) | `grainy crayon folk style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd034/lp8RH0miFlfyI05mB0L0G_fHXVRMvc.jpg" width="96"> | [Grainy Crayon Stipple](https://huggingface.co/ilkerzgi/krea-2-grainy-crayon-stipple-lora) | `grainy crayon stipple style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcfe8/0tZ8_aL7x1b1-ktoUJXV-_usGz8p0c.jpg" width="96"> | [Grainy Crayon Vivid](https://huggingface.co/ilkerzgi/krea-2-grainy-crayon-vivid-lora) | `grainy crayon vivid style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1af/cjCz8PxmRRU5C0gMA2JPv_W8jCig4G.png" width="96"> | [Grainy Duotone Haze](https://huggingface.co/ilkerzgi/krea-2-grainy-duotone-haze-lora) | `grainy duotone haze style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc23f/1L6ln6c1dmiv-cY8t5jMG_sQUlPGDV.jpg" width="96"> | [Grainy Gouache Storybook](https://huggingface.co/ilkerzgi/krea-2-grainy-gouache-storybook-lora) | `grainy gouache storybook style` |
 | <img src="https://v3b.fal.media/files/b/0a9fccce/E4g4-_BeLZWSZRF8cTxdq_nZzrMqM3.jpg" width="96"> | [Grainy Muted Whimsical Ink](https://huggingface.co/ilkerzgi/krea-2-grainy-muted-whimsical-ink-lora) | `grainy muted whimsical ink style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd24d/WA93Ka3PRhkn5F2THx8sb_tgjGlbM4.jpg" width="96"> | [Grainy Pink Dreamscape](https://huggingface.co/ilkerzgi/krea-2-grainy-pink-dreamscape-lora) | `grainy pink dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc8e3/YvXwvRHVd-ekvadkDTZb2_eIjMCotH.jpg" width="96"> | [Grainy Retro Tropical](https://huggingface.co/ilkerzgi/krea-2-grainy-retro-tropical-lora) | `grainy retro tropical style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd0f2/yXp5JpjzdO-4rjQZO3deE_jrrkXrwk.jpg" width="96"> | [Grainy Risograph Cyan Orange](https://huggingface.co/ilkerzgi/krea-2-grainy-risograph-cyan-orange-lora) | `grainy risograph cyan orange style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd14f/d1pLnorEOUrMaexQ92qZm_pNipljSR.jpg" width="96"> | [Grainy Textured Folksy](https://huggingface.co/ilkerzgi/krea-2-grainy-textured-folksy-lora) | `grainy textured folksy style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc107/F6qXyuEPpKrTgbqO7ltah_cIUtGe1Z.jpg" width="96"> | [Grainy Warm Storybook](https://huggingface.co/ilkerzgi/krea-2-grainy-warm-storybook-lora) | `grainy warm storybook style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcb1a/3dUqLYnqx0lMCrxTin8dl_O8yufF6E.jpg" width="96"> | [Graphic Novel Earthy Ink](https://huggingface.co/ilkerzgi/krea-2-graphic-novel-earthy-ink-lora) | `graphic novel earthy ink style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa167/2bs_CkFGlIoWs8PUalk52_mAelx494.png" width="96"> | [Green Laser Night](https://huggingface.co/ilkerzgi/krea-2-green-laser-night-lora) | `green laser night style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa21c/43w-tn0JszYEPKLe_8eP8_gD3xEu2i.png" width="96"> | [Green Pointillist Dusk](https://huggingface.co/ilkerzgi/krea-2-green-pointillist-dusk-lora) | `green pointillist dusk style` |
@@ -503,9 +558,60 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fcd37/Zc1B2cNcqxbePr4mDyzwt_izNnRkpv.jpg" width="96"> | [Icy Blue Isometric Linework](https://huggingface.co/ilkerzgi/krea-2-icy-blue-isometric-linework-lora) | `icy blue isometric linework style` |
 | <img src="https://v3b.fal.media/files/b/0a9fca3e/CCgOyI45AJzGhIvQCNblo_Yw5HR8kY.jpg" width="96"> | [Indigo Collage Watercolor](https://huggingface.co/ilkerzgi/krea-2-indigo-collage-watercolor-lora) | `indigo collage watercolor style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcc2e/9jr5PYF_dUEZ3NG74T5FW_tFUwQ1Gt.jpg" width="96"> | [Indigo Dusk Inkline](https://huggingface.co/ilkerzgi/krea-2-indigo-dusk-inkline-lora) | `indigo dusk inkline style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9db9/Kk8qY6ZjJCkRPSJXZyQ6U_rZBumW9s.png" width="96"> | [Indigo Marbled Fluid](https://huggingface.co/ilkerzgi/krea-2-indigo-marbled-fluid-lora) | `indigo marbled fluid style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcdae/KE9yn_9zaC8qR0NhGb_a3_89Y8tNVo.jpg" width="96"> | [Indigo Neon Horror Anime](https://huggingface.co/ilkerzgi/krea-2-indigo-neon-horror-anime-lora) | `indigo neon horror anime style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc1d0/JycrLO3wusUqdZ56jXbgw_yJqWJVQ2.jpg" width="96"> | [Indigo Terracotta Anime](https://huggingface.co/ilkerzgi/krea-2-indigo-terracotta-anime-lora) | `indigo terracotta anime style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcf59/PZQ0KgvW6w3_ux_zQSJ22_AcLnDs1O.jpg" width="96"> | [Inked Manga Daylight](https://huggingface.co/ilkerzgi/krea-2-inked-manga-daylight-lora) | `inked manga daylight style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcef7/sg7OU4nsFJ2H-wZqF5EbE_ZjAoyR86.jpg" width="96"> | [Inked Terracotta Flatcolor](https://huggingface.co/ilkerzgi/krea-2-inked-terracotta-flatcolor-lora) | `inked terracotta flatcolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcbb1/2rOFvplxYvWXdQcNsaqwK_qYLk18zq.jpg" width="96"> | [Inked Watercolor Storybook](https://huggingface.co/ilkerzgi/krea-2-inked-watercolor-storybook-lora) | `inked watercolor storybook style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcb6a/vJLOaiEFFi7QrH5JZIMgC_UrHWIOHG.jpg" width="96"> | [Inky Folk Pattern](https://huggingface.co/ilkerzgi/krea-2-inky-folk-pattern-lora) | `inky folk pattern style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc155/UeVKEQ5gUlNYwX7NLzenh_O7nQQawh.jpg" width="96"> | [Inky Newsprint Collage](https://huggingface.co/ilkerzgi/krea-2-inky-newsprint-collage-lora) | `inky newsprint collage style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcd37/1xjGptn3vzb77dK7kS3Yq_uuxTOrUe.jpg" width="96"> | [Inky Watercolor Whimsy](https://huggingface.co/ilkerzgi/krea-2-inky-watercolor-whimsy-lora) | `inky watercolor whimsy style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1a7/Ms7hX19AmTVYR0fJiOI2j_EErfFHXM.png" width="96"> | [Iridescent Bokeh Dream](https://huggingface.co/ilkerzgi/krea-2-iridescent-bokeh-dream-lora) | `iridescent bokeh dream style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1b4/WAorN-Fk_pQWw2dMi0LYs_eVnxsIfA.png" width="96"> | [Iridescent Chrome Dream](https://huggingface.co/ilkerzgi/krea-2-iridescent-chrome-dream-lora) | `iridescent chrome dream style` |
+| <img src="https://v3b.fal.media/files/b/0a9fccb8/PmIjXIijdQ0FLSk-2Ux8Q_b35qBzni.jpg" width="96"> | [Iridescent Collage Linework](https://huggingface.co/ilkerzgi/krea-2-iridescent-collage-linework-lora) | `iridescent collage linework style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa18a/fa9yyI4xMJRhHe4GxmCtF_Y4QLCuXx.png" width="96"> | [Iridescent Crystal Dream](https://huggingface.co/ilkerzgi/krea-2-iridescent-crystal-dream-lora) | `iridescent crystal dream style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1d2/X-FQnW7BOwGSH_kXvU_N-_CwIUnV9b.png" width="96"> | [Iridescent Crystal Glow](https://huggingface.co/ilkerzgi/krea-2-iridescent-crystal-glow-lora) | `iridescent crystal glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1e5/zvDiipn85D0-P_TosYWP0_LpjHHAmn.png" width="96"> | [Iridescent Glitter Nightscape](https://huggingface.co/ilkerzgi/krea-2-iridescent-glitter-nightscape-lora) | `iridescent glitter nightscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1ed/7urVh7CxoeSl-W8ljUj1y_Vj7VJpgH.png" width="96"> | [Iridescent Holographic Glass](https://huggingface.co/ilkerzgi/krea-2-iridescent-holographic-glass-lora) | `iridescent holographic glass style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa157/uGNVFr2gl7ja7DlVIfpA__XVB1cjda.png" width="96"> | [Iridescent Neon Prism](https://huggingface.co/ilkerzgi/krea-2-iridescent-neon-prism-lora) | `iridescent neon prism style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1bf/uzLsBOL1WlXU7iIgEgV42_LZLhx18F.png" width="96"> | [Iridescent Prismatic Glow](https://huggingface.co/ilkerzgi/krea-2-iridescent-prismatic-glow-lora) | `iridescent prismatic glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa190/z0daIBt3bghGYBPPXbcmQ_MUkAIEc7.png" width="96"> | [Iridescent Prismatic Sparkle](https://huggingface.co/ilkerzgi/krea-2-iridescent-prismatic-sparkle-lora) | `iridescent prismatic sparkle style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc284/ZmlfGChle8vWIJHPBtTfg_6HY3MUvv.jpg" width="96"> | [Iridescent Twilight Dreamscape](https://huggingface.co/ilkerzgi/krea-2-iridescent-twilight-dreamscape-lora) | `iridescent twilight dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc145/z_XJjXsoOAvG7gP8ZgaAL_6xNFivfg.jpg" width="96"> | [Isometric Tropical Noir](https://huggingface.co/ilkerzgi/krea-2-isometric-tropical-noir-lora) | `isometric tropical noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1e5/by0URybeWjZwxP5w4vwic_zkS0o7gx.png" width="96"> | [Ivory Crimson Minimal](https://huggingface.co/ilkerzgi/krea-2-ivory-crimson-minimal-lora) | `ivory crimson minimal style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc296/lAShGWiTuyDEG8JzEnuPC_upMLeDwr.jpg" width="96"> | [Japanese Pink Flatline](https://huggingface.co/ilkerzgi/krea-2-japanese-pink-flatline-lora) | `japanese pink flatline style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dc0/JAScd5sVRmdUS1GueO282_pGEal7Na.png" width="96"> | [Jeweled Bokeh Fantasy](https://huggingface.co/ilkerzgi/krea-2-jeweled-bokeh-fantasy-lora) | `jeweled bokeh fantasy style` |
+| <img src="https://v3b.fal.media/files/b/0a9fca8c/TTBuiuoAxJdgvD_Bidwy-_pUe17N6M.jpg" width="96"> | [Kawaii Inky Flatline](https://huggingface.co/ilkerzgi/krea-2-kawaii-inky-flatline-lora) | `kawaii inky flatline style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc22f/um052_qXX3ubVjjj1d79t_913IuW09.jpg" width="96"> | [Korean Folk Pop](https://huggingface.co/ilkerzgi/krea-2-korean-folk-pop-lora) | `korean folk pop style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9cc1/fgv76N9NBlClZSM21FQR7_ZzgY1poL.png" width="96"> | [Layered Archival Datascape](https://huggingface.co/ilkerzgi/krea-2-layered-archival-datascape-lora) | `layered archival datascape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc240/IMJfAMWOjs5mInOXQRX4n_jue3hy3B.jpg" width="96"> | [Loose Exaggerated Concept Sketch](https://huggingface.co/ilkerzgi/krea-2-loose-exaggerated-concept-sketch-lora) | `loose exaggerated concept sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc865/VIj1cfTuwvg3-hmq55GPz_igfLRIXO.jpg" width="96"> | [Loose Terracotta Watercolor](https://huggingface.co/ilkerzgi/krea-2-loose-terracotta-watercolor-lora) | `loose terracotta watercolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc100/FvenZeOKtLZciXyvAPehd_JKmSiX2T.jpg" width="96"> | [Luminous Anime Film](https://huggingface.co/ilkerzgi/krea-2-luminous-anime-film-lora) | `luminous anime film style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd27/wNOATaWqUVkgMzreVDRhP_f2MqUbRB.jpg" width="96"> | [Luminous Asian Dreamscape](https://huggingface.co/ilkerzgi/krea-2-luminous-asian-dreamscape-lora) | `luminous asian dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dd5/--9crPar1HXyzt-eq3jqL_Ek7fBlp2.png" width="96"> | [Luminous Blush Haze](https://huggingface.co/ilkerzgi/krea-2-luminous-blush-haze-lora) | `luminous blush haze style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa235/j6mDn4VhxiHjFtaOQHhm5_3NOwB6u8.png" width="96"> | [Luminous Filament Haze](https://huggingface.co/ilkerzgi/krea-2-luminous-filament-haze-lora) | `luminous filament haze style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dda/wJEpluLyXiv0ILQkLI1Mq_baC2Z9TR.png" width="96"> | [Luminous Frost Dream](https://huggingface.co/ilkerzgi/krea-2-luminous-frost-dream-lora) | `luminous frost dream style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa160/1Huz8D9DPaaSIRa0smZsu_LnQrNWqc.png" width="96"> | [Luminous Prismatic Gradient](https://huggingface.co/ilkerzgi/krea-2-luminous-prismatic-gradient-lora) | `luminous prismatic gradient style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c9e/FvUMZGGy6VNZwXFzDuOmg_HrdQ9JLl.png" width="96"> | [Luminous Sapphire Glow](https://huggingface.co/ilkerzgi/krea-2-luminous-sapphire-glow-lora) | `luminous sapphire glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dc2/oV1KZVey5LZ27tSkvdn8H_JtClWAGt.png" width="96"> | [Luminous Sapphire Reverie](https://huggingface.co/ilkerzgi/krea-2-luminous-sapphire-reverie-lora) | `luminous sapphire reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa227/Cii-C9zEsP5Wvo448b8Ll_vcm7XZLU.png" width="96"> | [Luminous Stained Glass Mosaic](https://huggingface.co/ilkerzgi/krea-2-luminous-stained-glass-mosaic-lora) | `luminous stained glass mosaic style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dcc/dUGGlRQyFG0bvPzW9zuir_t0zeSyMy.png" width="96"> | [Luminous Translucent Installation](https://huggingface.co/ilkerzgi/krea-2-luminous-translucent-installation-lora) | `luminous translucent installation style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1b7/Mo_i51Ro8CJaYJ_Xps4Re_7ZbV6gMm.png" width="96"> | [Luminous White Futurism](https://huggingface.co/ilkerzgi/krea-2-luminous-white-futurism-lora) | `luminous white futurism style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dce/fTLzq1jytmx8jHPxH--Ex_gavrPniv.png" width="96"> | [Lush Floral Maximalist](https://huggingface.co/ilkerzgi/krea-2-lush-floral-maximalist-lora) | `lush floral maximalist style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc139/cosakKE292PQhKUmU2yYu_HH5ZtgKT.jpg" width="96"> | [Magenta Blue Duotone Comics](https://huggingface.co/ilkerzgi/krea-2-magenta-blue-duotone-comics-lora) | `magenta blue duotone comics style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc139/z5Qlg1EsETzBej3so7nvO_uCe5irVG.jpg" width="96"> | [Magenta Dusk Horror](https://huggingface.co/ilkerzgi/krea-2-magenta-dusk-horror-lora) | `magenta dusk horror style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa15e/ANfbxFH91miKKYGG1bV9U_7sHVwmSx.png" width="96"> | [Magenta Ribbon Flow](https://huggingface.co/ilkerzgi/krea-2-magenta-ribbon-flow-lora) | `magenta ribbon flow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0ed/gXHJTIJSbx7kMdO8XUEm2_XKCMVTtD.jpg" width="96"> | [Meiji Woodblock Ukiyo](https://huggingface.co/ilkerzgi/krea-2-meiji-woodblock-ukiyo-lora) | `meiji woodblock ukiyo style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd7d/BqBAOtYK6wjnNtriVG-nI_p4qqBwhe.jpg" width="96"> | [Midcentury Ink Sketch](https://huggingface.co/ilkerzgi/krea-2-midcentury-ink-sketch-lora) | `midcentury ink sketch style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd16e/G-167Qpqxyq683ljMQlsQ_vJT3E2FJ.jpg" width="96"> | [Midcentury Teal Yellow](https://huggingface.co/ilkerzgi/krea-2-midcentury-teal-yellow-lora) | `midcentury teal yellow style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c8b/FzwuUk_ZiLZ1MY4UrNGPJ_ZfXoLJ5U.png" width="96"> | [Midnight Blue Gilded](https://huggingface.co/ilkerzgi/krea-2-midnight-blue-gilded-lora) | `midnight blue gilded style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dea/6eoP_iJ045Dx2YRMVrk2a_1MsLAS7M.png" width="96"> | [Minimal Dark Silhouette](https://huggingface.co/ilkerzgi/krea-2-minimal-dark-silhouette-lora) | `minimal dark silhouette style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0cb/lXHSbenK6oai8vQz2ggzf_kZ5bEIw0.jpg" width="96"> | [Misty Anime Cinematic](https://huggingface.co/ilkerzgi/krea-2-misty-anime-cinematic-lora) | `misty anime cinematic style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa154/zBwUprxn1BdiRQbup5oIY_lhv3GnZv.png" width="96"> | [Misty Emerald Magenta](https://huggingface.co/ilkerzgi/krea-2-misty-emerald-magenta-lora) | `misty emerald magenta style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1ee/0Fu4Jb70Pb2iaW2mlihy5_oZjE1Wp9.png" width="96"> | [Misty Lavender Haze](https://huggingface.co/ilkerzgi/krea-2-misty-lavender-haze-lora) | `misty lavender haze style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1db/CZive1UeGUI3wsG0GhEpx_GktYBJAV.png" width="96"> | [Misty Slate Atmospheric](https://huggingface.co/ilkerzgi/krea-2-misty-slate-atmospheric-lora) | `misty slate atmospheric style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcdc7/O-iy14Xj0gkJTyonbdcV6_j9F8oYoT.jpg" width="96"> | [Monochrome Anime Linework](https://huggingface.co/ilkerzgi/krea-2-monochrome-anime-linework-lora) | `monochrome anime linework style` |
 
 ## Painterly
 
@@ -603,9 +709,36 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fa19f/Ns_Obc3Mt7IDrvApKUSZR_iDSsLZua.png" width="96"> | [Golden Hour Fantasy Ink](https://huggingface.co/ilkerzgi/krea-2-golden-hour-fantasy-ink-lora) | `golden hour fantasy ink style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa19f/Qy9x7_YcIOeAJfYaUEaQ__s5iBuPZp.png" width="96"> | [Golden Impasto Oil](https://huggingface.co/ilkerzgi/krea-2-golden-impasto-oil-lora) | `golden impasto oil style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc121/NePu3EZBGCpSY4i73Z2gW_wgqG9hgJ.jpg" width="96"> | [Golden Luminous Dreamscape](https://huggingface.co/ilkerzgi/krea-2-golden-luminous-dreamscape-lora) | `golden luminous dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1f7/6HJ0qDmAdHLx0q-3112Z-_OOCvo3J1.png" width="96"> | [Hazy Golden Oilpaint](https://huggingface.co/ilkerzgi/krea-2-hazy-golden-oilpaint-lora) | `hazy golden oilpaint style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1d8/2OVBg_ihE7vAQO50qbEpz_EKXqFKMy.png" width="96"> | [Hazy Sunlit Oil Painterly](https://huggingface.co/ilkerzgi/krea-2-hazy-sunlit-oil-painterly-lora) | `hazy sunlit oil painterly style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc146/5FnL6ToOlCgel8KrIYOt5_SFJRq3g2.jpg" width="96"> | [Hyperreal Floating Surreal](https://huggingface.co/ilkerzgi/krea-2-hyperreal-floating-surreal-lora) | `hyperreal floating surreal style` |
+| <img src="https://v3b.fal.media/files/b/0a9fccbe/PzTTuHW1mZdE-w7gUyL2B_LtwtHDnt.jpg" width="96"> | [Indigo Alcohol Ink](https://huggingface.co/ilkerzgi/krea-2-indigo-alcohol-ink-lora) | `indigo alcohol ink style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1f9/ZL28iB2QjQpksV0947lCE_Gr2yeouy.png" width="96"> | [Inked Webtoon Daylight](https://huggingface.co/ilkerzgi/krea-2-inked-webtoon-daylight-lora) | `inked webtoon daylight style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa13e/AHKFrcs8iXVOIQJkl_tz3_63YSOmLK.png" width="96"> | [Iridescent Neon Bloom](https://huggingface.co/ilkerzgi/krea-2-iridescent-neon-bloom-lora) | `iridescent neon bloom style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0cc/D-FI77zX33jV6mV5Xe0Y1_p3Rt4t2q.jpg" width="96"> | [Iridescent Pastel Oilflow](https://huggingface.co/ilkerzgi/krea-2-iridescent-pastel-oilflow-lora) | `iridescent pastel oilflow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc23b/qokRGRuWpiB-bweyNnGU3_OFJbvq3l.jpg" width="96"> | [Iridescent Prism Diffusion](https://huggingface.co/ilkerzgi/krea-2-iridescent-prism-diffusion-lora) | `iridescent prism diffusion style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa222/GuIcRRYZtV_ymWNI0SaFo_1SlaMRfA.png" width="96"> | [Lavender Ink Marker](https://huggingface.co/ilkerzgi/krea-2-lavender-ink-marker-lora) | `lavender ink marker style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa213/5Y-l7QupXPWspiFS8KGyZ_NeXkLEZJ.png" width="96"> | [Lavender Inkwash](https://huggingface.co/ilkerzgi/krea-2-lavender-inkwash-lora) | `lavender inkwash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1e1/oNN5Dw6UZKk3PaOiUv5e2_xhPB7udc.png" width="96"> | [Lavender Watercolor Reverie](https://huggingface.co/ilkerzgi/krea-2-lavender-watercolor-reverie-lora) | `lavender watercolor reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa202/-cef7fBLA57lV7Y930ewo_1J6vsbsi.png" width="96"> | [Loose Gestural Inkwash](https://huggingface.co/ilkerzgi/krea-2-loose-gestural-inkwash-lora) | `loose gestural inkwash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1fc/Yxcbs85sl8LAWt7WKM1Yy_2u1LkIWi.png" width="96"> | [Loose Ink Fashion](https://huggingface.co/ilkerzgi/krea-2-loose-ink-fashion-lora) | `loose ink fashion style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dce/f11j0rJFSpd_qgN2sXCnY_TOotAfRJ.png" width="96"> | [Luminous Backlit Inkbloom](https://huggingface.co/ilkerzgi/krea-2-luminous-backlit-inkbloom-lora) | `luminous backlit inkbloom style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa222/aAJUvMa0wwD-7JPAG05al_2CjxJ8tI.png" width="96"> | [Luminous Nocturnal Bloom](https://huggingface.co/ilkerzgi/krea-2-luminous-nocturnal-bloom-lora) | `luminous nocturnal bloom style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa226/SXgP1RwWybDGNI-2Di6FR_CklA9ugZ.png" width="96"> | [Luminous Ochre Watercolor](https://huggingface.co/ilkerzgi/krea-2-luminous-ochre-watercolor-lora) | `luminous ochre watercolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc14d/LWjGS-cWaUoIS5bDUWYMV_eZ2xf9Mm.jpg" width="96"> | [Luminous Pastel Glow](https://huggingface.co/ilkerzgi/krea-2-luminous-pastel-glow-lora) | `luminous pastel glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c9f/kofNcqRuvdRwLmB2HngqD_uvmu1A1a.png" width="96"> | [Luminous Pastel Reverie](https://huggingface.co/ilkerzgi/krea-2-luminous-pastel-reverie-lora) | `luminous pastel reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc26b/8h66ioogcRKg2vjU8qBP__IpqNv5mv.jpg" width="96"> | [Luminous Pointillist Orbs](https://huggingface.co/ilkerzgi/krea-2-luminous-pointillist-orbs-lora) | `luminous pointillist orbs style` |
+| <img src="https://v3b.fal.media/files/b/0a9fccb9/bQE6eriM1Bn2vhaPKcf3S_gAhMI0t9.jpg" width="96"> | [Luminous Teal Crimson Reverie](https://huggingface.co/ilkerzgi/krea-2-luminous-teal-crimson-reverie-lora) | `luminous teal crimson reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa246/XVH6X0cQ1xU_u7g7JhbgW_cKaUjRYD.png" width="96"> | [Luminous Watercolor Wash](https://huggingface.co/ilkerzgi/krea-2-luminous-watercolor-wash-lora) | `luminous watercolor wash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa17a/c-gucQoKQBslQ1NNSRONN_57HL49FK.png" width="96"> | [Magenta Ink Swirl](https://huggingface.co/ilkerzgi/krea-2-magenta-ink-swirl-lora) | `magenta ink swirl style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc864/_u1EbN3pMdr4VUjXGWXr1_HdVWLC6D.jpg" width="96"> | [Midnight Blue Surreal Oil](https://huggingface.co/ilkerzgi/krea-2-midnight-blue-surreal-oil-lora) | `midnight blue surreal oil style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1d3/f0wIGiSZLYRLqcsCofzkc_dXd4FhOE.png" width="96"> | [Misty Blue Oil](https://huggingface.co/ilkerzgi/krea-2-misty-blue-oil-lora) | `misty blue oil style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc157/Hxb7VwtMZ-Iz-6zQLAgja_U57GNsdP.jpg" width="96"> | [Misty Blue Watercolor](https://huggingface.co/ilkerzgi/krea-2-misty-blue-watercolor-lora) | `misty blue watercolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1e4/okC_Xk6M4CAw5pJvM9wwI_Hj8BUG67.png" width="96"> | [Misty Inkwash Watercolor](https://huggingface.co/ilkerzgi/krea-2-misty-inkwash-watercolor-lora) | `misty inkwash watercolor style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9c88/cJT-BOwYTdYDRdaUd2ESQ_rv7fE0MC.png" width="96"> | [Misty Muted Pastoral](https://huggingface.co/ilkerzgi/krea-2-misty-muted-pastoral-lora) | `misty muted pastoral style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd91/_O1dbGbjJD8734wOVPFaa_c7ZMGmh4.jpg" width="96"> | [Misty Pink Dreamscape](https://huggingface.co/ilkerzgi/krea-2-misty-pink-dreamscape-lora) | `misty pink dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1fb/0cTbCXPyaeEi40PaCHU7Q_GLP6oRDl.png" width="96"> | [Misty Sage Inkwash](https://huggingface.co/ilkerzgi/krea-2-misty-sage-inkwash-lora) | `misty sage inkwash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fccec/_lbg47QQ2kKtlmjKBa2VH_peY5C5n3.jpg" width="96"> | [Misty Teal Dreamscape](https://huggingface.co/ilkerzgi/krea-2-misty-teal-dreamscape-lora) | `misty teal dreamscape style` |
 
 ## Photographic
 
@@ -675,9 +808,11 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fcecb/cqRmq7B1xaCm4jnxPubah_rC27bzDL.jpg" width="96"> | [Glitter Sparkle Dreamcore](https://huggingface.co/ilkerzgi/krea-2-glitter-sparkle-dreamcore-lora) | `glitter sparkle dreamcore style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd0ce/QVkX0wLF9Et6GcnL4GD4d_LxJNya1u.jpg" width="96"> | [Golden Backlit Haze](https://huggingface.co/ilkerzgi/krea-2-golden-backlit-haze-lora) | `golden backlit haze style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0ab/CStu_8XMLlsVYgjhhgiSa_KjbpxfHI.jpg" width="96"> | [Golden Grain Surreal Film](https://huggingface.co/ilkerzgi/krea-2-golden-grain-surreal-film-lora) | `golden grain surreal film style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc1cc/CKSy_WPb3o4SaGDtJ5obv_cNcsgi7X.jpg" width="96"> | [Golden Lightpainting Nocturnal](https://huggingface.co/ilkerzgi/krea-2-golden-lightpainting-nocturnal-lora) | `golden lightpainting nocturnal style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0d2/jHyj5hCNf2EA9-nSKM9PO_BwCnb3lV.jpg" width="96"> | [Grainy Analog Black White](https://huggingface.co/ilkerzgi/krea-2-grainy-analog-black-white-lora) | `grainy analog black white style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0b8/cddg7mKFcLZk9YN1hFKH1_wyXg4n2h.jpg" width="96"> | [Grainy Dusk Silhouette](https://huggingface.co/ilkerzgi/krea-2-grainy-dusk-silhouette-lora) | `grainy dusk silhouette style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0f3/ttxjoquq7T-VIi2AHynHJ_q9QoL8WN.jpg" width="96"> | [Grainy Fogbound Noir](https://huggingface.co/ilkerzgi/krea-2-grainy-fogbound-noir-lora) | `grainy fogbound noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc223/PdMu6FHBnm5yFHBFbAgYJ_BYv8ed9X.jpg" width="96"> | [Grainy Lomography Night](https://huggingface.co/ilkerzgi/krea-2-grainy-lomography-night-lora) | `grainy lomography night style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc127/5gRNYCdNqlCrA-VnJhU1a_zllTZexp.jpg" width="96"> | [Grainy Midcentury Silver Gelatin](https://huggingface.co/ilkerzgi/krea-2-grainy-midcentury-silver-gelatin-lora) | `grainy midcentury silver gelatin style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd061/1PWacAl1LL6NH-O7wjMuV_Ab6YP8oL.jpg" width="96"> | [Grainy Monochrome Worm Eye](https://huggingface.co/ilkerzgi/krea-2-grainy-monochrome-worm-eye-lora) | `grainy monochrome worm eye style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd0a0/hEuBqnedSHZ0sP7zE_Dyt_pQbpksxh.jpg" width="96"> | [Grainy Nineties Film](https://huggingface.co/ilkerzgi/krea-2-grainy-nineties-film-lora) | `grainy nineties film style` |
@@ -686,7 +821,21 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fa214/KlDfmjsJO4TPBgufgct5M_xDvJHKeH.png" width="96"> | [Green Tinted Analog](https://huggingface.co/ilkerzgi/krea-2-green-tinted-analog-lora) | `green tinted analog style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc897/rnGYlbHi3sR75D6NDgame_LPj0wJcy.jpg" width="96"> | [Gritty Lomo Underground](https://huggingface.co/ilkerzgi/krea-2-gritty-lomo-underground-lora) | `gritty lomo underground style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc10a/0jgwbyNG3_JU1Ar5zfvf-_TNeEJrRl.jpg" width="96"> | [Handmade Papier Mache Miniature](https://huggingface.co/ilkerzgi/krea-2-handmade-papier-mache-miniature-lora) | `handmade papier mache miniature style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc21c/s8H_NbL8XQAuMFjFKrgFM_D9RoS3uR.jpg" width="96"> | [Icy Bokeh Dreamscape](https://huggingface.co/ilkerzgi/krea-2-icy-bokeh-dreamscape-lora) | `icy bokeh dreamscape style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc91c/d61HgLZH_3wKQDquxXJmD_Ov7RSdbz.jpg" width="96"> | [Indigo Textile Craft](https://huggingface.co/ilkerzgi/krea-2-indigo-textile-craft-lora) | `indigo textile craft style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd09e/pwhOcmoFELRENztNQV9wh_Y96vRPOD.jpg" width="96"> | [Infrared Photo Composite](https://huggingface.co/ilkerzgi/krea-2-infrared-photo-composite-lora) | `infrared photo composite style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc112/G11tiRKThGZlff03dEsTU_ZQUzRJ7g.jpg" width="96"> | [Iridescent Dreamy Pastel](https://huggingface.co/ilkerzgi/krea-2-iridescent-dreamy-pastel-lora) | `iridescent dreamy pastel style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc276/0_yFvSMw2pzi9gomTOjJf_MC182i5x.jpg" width="96"> | [Iridescent Glitter Sparkle](https://huggingface.co/ilkerzgi/krea-2-iridescent-glitter-sparkle-lora) | `iridescent glitter sparkle style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcaf7/dqrC0HEPsSKUcDB62KzaX_QAU1uzQ8.jpg" width="96"> | [Iridescent Pastel Wash](https://huggingface.co/ilkerzgi/krea-2-iridescent-pastel-wash-lora) | `iridescent pastel wash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc127/yEESnMb6EmIaUt7queR1n_e8mrbZd8.jpg" width="96"> | [Lavender Orange Surreal](https://huggingface.co/ilkerzgi/krea-2-lavender-orange-surreal-lora) | `lavender orange surreal style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dc7/KyNI3-07Mp5R9syr6X0VY_sJ2i0sll.png" width="96"> | [Layered Photo Collage](https://huggingface.co/ilkerzgi/krea-2-layered-photo-collage-lora) | `layered photo collage style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcfd2/hdIXB7BIa7GQVhDk0nukq_7sfQpZ6Y.jpg" width="96"> | [Lens Flare Lomo](https://huggingface.co/ilkerzgi/krea-2-lens-flare-lomo-lora) | `lens flare lomo style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc990/heieuk7yn2KieqOjugOLR_pbEPpmKh.jpg" width="96"> | [Lomographic Dreamy Teal Pink](https://huggingface.co/ilkerzgi/krea-2-lomographic-dreamy-teal-pink-lora) | `lomographic dreamy teal pink style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcc6f/fxKE4NYxKHTgrwmYybclJ_uE0pBQ2a.jpg" width="96"> | [Lomography Night Grain](https://huggingface.co/ilkerzgi/krea-2-lomography-night-grain-lora) | `lomography night grain style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc832/8vIVC7WBvajK_dfynlAVy_W4bkDVz0.jpg" width="96"> | [Midcentury Kodachrome Pastel](https://huggingface.co/ilkerzgi/krea-2-midcentury-kodachrome-pastel-lora) | `midcentury kodachrome pastel style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc27b/-ok1qh321C6GkSS58ev85_dpKBaoqg.jpg" width="96"> | [Midcentury Kodachrome Saturated](https://huggingface.co/ilkerzgi/krea-2-midcentury-kodachrome-saturated-lora) | `midcentury kodachrome saturated style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc957/0FliMI8L-geowevytVMAd_KuM4zSO6.jpg" width="96"> | [Midnight Navy Gold](https://huggingface.co/ilkerzgi/krea-2-midnight-navy-gold-lora) | `midnight navy gold style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd18/sUCOShkydqcPmaa6zzNEF_KbwBWV7t.jpg" width="96"> | [Miniature Diorama Figurine](https://huggingface.co/ilkerzgi/krea-2-miniature-diorama-figurine-lora) | `miniature diorama figurine style` |
 
 ## License
 
