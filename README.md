@@ -5,7 +5,7 @@
 
 # Awesome Krea 2 LoRAs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **261** style LoRAs for [Krea 2](https://huggingface.co/krea/Krea-2-Turbo), trained and served on [fal](https://fal.ai). Every entry links to a Hugging Face repo with the weights, a model card, and copy-paste fal usage.
+> A curated list of **293** style LoRAs for [Krea 2](https://huggingface.co/krea/Krea-2-Turbo), trained and served on [fal](https://fal.ai). Every entry links to a Hugging Face repo with the weights, a model card, and copy-paste fal usage.
 
 [![Run on fal.ai](https://img.shields.io/badge/Run_on-fal.ai-FF6B35?style=flat-square)](https://fal.ai/models/fal-ai/krea-2/turbo/lora) [![Train on fal.ai](https://img.shields.io/badge/Train_on-fal.ai-FF6B35?style=flat-square)](https://fal.ai/models/fal-ai/krea-2-trainer) [![Krea 2](https://img.shields.io/badge/base-Krea_2_Turbo-7C5CFF?style=flat-square)](https://huggingface.co/krea/Krea-2-Turbo) [![HF index](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_index-yellow?style=flat-square)](https://huggingface.co/ilkerzgi/fal-Krea-2-Style-LoRAs)
 
@@ -27,12 +27,12 @@ print(result["images"][0]["url"])
 ## Contents
 
 - [3D Render](#3d-render) (18)
-- [Cinematic](#cinematic) (22)
-- [Drawing](#drawing) (15)
-- [Graphic](#graphic) (39)
-- [Illustration](#illustration) (109)
-- [Painterly](#painterly) (42)
-- [Photographic](#photographic) (16)
+- [Cinematic](#cinematic) (27)
+- [Drawing](#drawing) (19)
+- [Graphic](#graphic) (40)
+- [Illustration](#illustration) (119)
+- [Painterly](#painterly) (49)
+- [Photographic](#photographic) (21)
 
 ## 3D Render
 
@@ -80,9 +80,14 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc0f0/fCRUPdOkwhZStG2fGdE1C_m6jrWUVu.jpg" width="96"> | [Cold Fog Surreal](https://huggingface.co/ilkerzgi/krea-2-cold-fog-surreal-lora) | `cold fog surreal style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc150/xNWpil-akaX1baKJRkm_L_4YKuyTBK.jpg" width="96"> | [Cool Blue Amber Bokeh](https://huggingface.co/ilkerzgi/krea-2-cool-blue-amber-bokeh-lora) | `cool blue amber bokeh style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa140/O385FdylOa_HCt4DX3Vdk_Rvr6VY7x.png" width="96"> | [Crimson Accent Noir](https://huggingface.co/ilkerzgi/krea-2-crimson-accent-noir-lora) | `crimson accent noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9dcb/LKEhHqtWdYfPw1cPuAQ1G_r6jKMrLG.png" width="96"> | [Crimson Circuit Noir](https://huggingface.co/ilkerzgi/krea-2-crimson-circuit-noir-lora) | `crimson circuit noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0f1/Z87w0WTn3_WmDadQxJth6_4xBdRj5S.jpg" width="96"> | [Crimson Indigo Nocturne](https://huggingface.co/ilkerzgi/krea-2-crimson-indigo-nocturne-lora) | `crimson indigo nocturne style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcd39/_FfEe-m8AmMMJYHnHBGX3_WH2YVgyG.jpg" width="96"> | [Crimson Lantern Fog](https://huggingface.co/ilkerzgi/krea-2-crimson-lantern-fog-lora) | `crimson lantern fog style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa223/OtBBrq0BPAZ7LOkevLU9D_RukQ92hM.png" width="96"> | [Crimson Noir Gouache](https://huggingface.co/ilkerzgi/krea-2-crimson-noir-gouache-lora) | `crimson noir gouache style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa211/Wnc-7qXNU21EBqKYkG_dI_KjQrtarb.png" width="96"> | [Crimson Noir Spotlight](https://huggingface.co/ilkerzgi/krea-2-crimson-noir-spotlight-lora) | `crimson noir spotlight style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa152/6Hing4b3NDuhsXPPbocs7_xJ8pWWHo.png" width="96"> | [Crimson Sun Noir](https://huggingface.co/ilkerzgi/krea-2-crimson-sun-noir-lora) | `crimson sun noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc84b/4r34MfArpNFTfEPpbfIEW_3vQHW3qK.jpg" width="96"> | [Crimson Void Minimalist](https://huggingface.co/ilkerzgi/krea-2-crimson-void-minimalist-lora) | `crimson void minimalist style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa18d/sV7spg6nx7WoBd-6pPKD8_ccGvKNjO.png" width="96"> | [Cyan Noir Inkline](https://huggingface.co/ilkerzgi/krea-2-cyan-noir-inkline-lora) | `cyan noir inkline style` |
 
 ## Drawing
 
@@ -103,6 +108,10 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc0e1/8NUVRnxPu26INGx0hmjBv_jWrbAUpu.jpg" width="96"> | [Crayon Scribble Childlike](https://huggingface.co/ilkerzgi/krea-2-crayon-scribble-childlike-lora) | `crayon scribble childlike style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd016/nWLiqsKHo26Dzt8fHQvTj_X92MnI63.jpg" width="96"> | [Cream Ground Ink Sketch](https://huggingface.co/ilkerzgi/krea-2-cream-ground-ink-sketch-lora) | `cream ground ink sketch style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc87b/CwIZOhzN6iwPOb2EJkhnW_IeCM8YsT.jpg" width="96"> | [Cream Ground Loose Ink](https://huggingface.co/ilkerzgi/krea-2-cream-ground-loose-ink-lora) | `cream ground loose ink style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa15b/rl2wg7vzWtVHVrz1zu9lc_wGbpRv1J.png" width="96"> | [Crimson Accent Charcoal](https://huggingface.co/ilkerzgi/krea-2-crimson-accent-charcoal-lora) | `crimson accent charcoal style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0ea/7VBPUZmlgEjX_c1Bc5if9_R25QCgrw.jpg" width="96"> | [Crimson Charcoal Noir](https://huggingface.co/ilkerzgi/krea-2-crimson-charcoal-noir-lora) | `crimson charcoal noir style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1ef/MZkMGCTApmVxDE03AYIrV_WiCvF8hm.png" width="96"> | [Crosshatch Sketchbook Ink](https://huggingface.co/ilkerzgi/krea-2-crosshatch-sketchbook-ink-lora) | `crosshatch sketchbook ink style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0cb/9m-KlkNHcuSMYCQa1xyVH_8SElTzRE.jpg" width="96"> | [Dark Crosshatch Surreal](https://huggingface.co/ilkerzgi/krea-2-dark-crosshatch-surreal-lora) | `dark crosshatch surreal style` |
 
 ## Graphic
 
@@ -147,6 +156,7 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc1fd/jbHZ2_B6U2AGUX49qqqC__PAjQ5d67.jpg" width="96"> | [Crimson Noir Papercut](https://huggingface.co/ilkerzgi/krea-2-crimson-noir-papercut-lora) | `crimson noir papercut style` |
 | <img src="https://v3b.fal.media/files/b/0a9fca1b/Aq5ZzdqudbMkDUo2xF4yL_TRxOxbOS.jpg" width="96"> | [Crimson Orb Silhouette](https://huggingface.co/ilkerzgi/krea-2-crimson-orb-silhouette-lora) | `crimson orb silhouette style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa196/eherED11u2k1fFWLwSiaP_qsJkV91s.png" width="96"> | [Crimson Screenprint Poster](https://huggingface.co/ilkerzgi/krea-2-crimson-screenprint-poster-lora) | `crimson screenprint poster style` |
+| <img src="https://v3b.fal.media/files/b/0a9fce84/yzotHpCGKZlDm_hOM4o3K_alCXyYjV.jpg" width="96"> | [Cyan Saturated Surreal Collage](https://huggingface.co/ilkerzgi/krea-2-cyan-saturated-surreal-collage-lora) | `cyan saturated surreal collage style` |
 
 ## Illustration
 
@@ -254,13 +264,23 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fcf60/hbdOKDooiZuLr1j22Ht3W_9GxsJOBl.jpg" width="96"> | [Crayon Dotted Folk](https://huggingface.co/ilkerzgi/krea-2-crayon-dotted-folk-lora) | `crayon dotted folk style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc122/WZBm8194mnJ3aRf-B0hw5_dt6RI7uZ.jpg" width="96"> | [Crayon Sketch Warm](https://huggingface.co/ilkerzgi/krea-2-crayon-sketch-warm-lora) | `crayon sketch warm style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcc4c/EY4MSpRzty_0PYHx8_KBU_meyVto79.jpg" width="96"> | [Crayon Textured Whimsy](https://huggingface.co/ilkerzgi/krea-2-crayon-textured-whimsy-lora) | `crayon textured whimsy style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa189/1uI8NB0Ej1xae8z5hs3yB_AmMSFop2.png" width="96"> | [Crimson Accent Monochrome](https://huggingface.co/ilkerzgi/krea-2-crimson-accent-monochrome-lora) | `crimson accent monochrome style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc115/h0TOLY3EFdUZxRK5wmfOQ_5lFpRVjE.jpg" width="96"> | [Crimson Blue Duotone](https://huggingface.co/ilkerzgi/krea-2-crimson-blue-duotone-lora) | `crimson blue duotone style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd1fa/5ATDcADeB9AHV81X7dgeP_GFoORjkg.jpg" width="96"> | [Crimson Blue Inkline Fantasy](https://huggingface.co/ilkerzgi/krea-2-crimson-blue-inkline-fantasy-lora) | `crimson blue inkline fantasy style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1cd/XR8lmHbU9RT6apr5YC-qA_Z83Kzkwx.png" width="96"> | [Crimson Bokeh Glow](https://huggingface.co/ilkerzgi/krea-2-crimson-bokeh-glow-lora) | `crimson bokeh glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1d1/mM5RM1tmKkOPVcWOTOTtV_XZOkZ0af.png" width="96"> | [Crimson Dusk Silhouette](https://huggingface.co/ilkerzgi/krea-2-crimson-dusk-silhouette-lora) | `crimson dusk silhouette style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcebb/DlCjeq9y9kbmZU_pvBZJY_5UyTqLxk.jpg" width="96"> | [Crimson Ember Linework](https://huggingface.co/ilkerzgi/krea-2-crimson-ember-linework-lora) | `crimson ember linework style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa18a/jtPZLVLoJxfGCPi1K0Ikb_2JcV5Iyg.png" width="96"> | [Crimson Glitch Datamosh](https://huggingface.co/ilkerzgi/krea-2-crimson-glitch-datamosh-lora) | `crimson glitch datamosh style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc265/KHhzeeBhVh_5J4gTkwFVr_QpJE6IbK.jpg" width="96"> | [Crimson Gold Woodblock](https://huggingface.co/ilkerzgi/krea-2-crimson-gold-woodblock-lora) | `crimson gold woodblock style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1c5/oguMwcYVZ2Dn13zP8sJkI_AxfQ8sEy.png" width="96"> | [Crimson Gothic Glow](https://huggingface.co/ilkerzgi/krea-2-crimson-gothic-glow-lora) | `crimson gothic glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd256/bM5IwfGABKUB_Kc7FPNr1_wVXhWudj.jpg" width="96"> | [Crimson Green Noir](https://huggingface.co/ilkerzgi/krea-2-crimson-green-noir-lora) | `crimson green noir style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9ded/Sh-6XjWwj9Q86wAO2Cx_t_d5KdplBf.png" width="96"> | [Crimson Infrared Dreamscape](https://huggingface.co/ilkerzgi/krea-2-crimson-infrared-dreamscape-lora) | `crimson infrared dreamscape style` |
 | <img src="https://v3b.fal.media/files/b/0a9fcedb/5iBB4lxwYh4-VK5b2lXd7_wCQPdCJo.jpg" width="96"> | [Crimson Midnight Inkline](https://huggingface.co/ilkerzgi/krea-2-crimson-midnight-inkline-lora) | `crimson midnight inkline style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa18e/dcfxoY_aSDpJMHX0ss7Wc_Ntf8yMKy.png" width="96"> | [Crimson Navy Folk](https://huggingface.co/ilkerzgi/krea-2-crimson-navy-folk-lora) | `crimson navy folk style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd271/kHEHDQLQpfBlfrmSZYRwB_qW7sdrgz.jpg" width="96"> | [Crimson Teal Inkline](https://huggingface.co/ilkerzgi/krea-2-crimson-teal-inkline-lora) | `crimson teal inkline style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa22e/ZNO7yTcw8f50MkdSY8uzX_vYYc9S1q.png" width="96"> | [Crimson Woodcut Reverie](https://huggingface.co/ilkerzgi/krea-2-crimson-woodcut-reverie-lora) | `crimson woodcut reverie style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcd27/vXBqcl4x6lxNpAGBrDDMz_mPwMUXvy.jpg" width="96"> | [Crisp Inkwash Concept](https://huggingface.co/ilkerzgi/krea-2-crisp-inkwash-concept-lora) | `crisp inkwash concept style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc1fd/AntHilnSomyO_jzSTig-3_fWYt1juk.jpg" width="96"> | [Dark Ember Glow](https://huggingface.co/ilkerzgi/krea-2-dark-ember-glow-lora) | `dark ember glow style` |
 
 ## Painterly
 
@@ -303,11 +323,18 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fceae/pLMRPWSZL9H4fhQdRBuuz_X5MlLb8v.jpg" width="96"> | [Coral Mint Dreamscape](https://huggingface.co/ilkerzgi/krea-2-coral-mint-dreamscape-lora) | `coral mint dreamscape style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9ca2/OrPDn6xczCYfrpfrOl9Tx_Fyq7Rt9B.png" width="96"> | [Cozy Storybook Gouache](https://huggingface.co/ilkerzgi/krea-2-cozy-storybook-gouache-lora) | `cozy storybook gouache style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9dd9/ZX8QqO7NvjRuUvelCJsTc_PrWO3xPb.png" width="96"> | [Crimson Accent Inkwash](https://huggingface.co/ilkerzgi/krea-2-crimson-accent-inkwash-lora) | `crimson accent inkwash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa1fa/Tk2iXCIp_SZjFCgASUHxt_h9wWrRmz.png" width="96"> | [Crimson Block Inkwash](https://huggingface.co/ilkerzgi/krea-2-crimson-block-inkwash-lora) | `crimson block inkwash style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd227/egP-UYpAl9Dzqj3MSEjZ9_545WlINC.jpg" width="96"> | [Crimson Dark Victorian Oil](https://huggingface.co/ilkerzgi/krea-2-crimson-dark-victorian-oil-lora) | `crimson dark victorian oil style` |
 | <img src="https://v3b.fal.media/files/b/0a9fd04c/FM5_9Q_WT7c9YbwOUOJh3_TEm9Qjf8.jpg" width="96"> | [Crimson Gold Leaf](https://huggingface.co/ilkerzgi/krea-2-crimson-gold-leaf-lora) | `crimson gold leaf style` |
 | <img src="https://v3b.fal.media/files/b/0a9fa1d4/Qpsnj0OULt2Tp_iD3_iAs_osJH53N2.png" width="96"> | [Crimson Grotesque Oilpaint](https://huggingface.co/ilkerzgi/krea-2-crimson-grotesque-oilpaint-lora) | `crimson grotesque oilpaint style` |
 | <img src="https://v3b.fal.media/files/b/0a9f9cca/EfNzM1jypnKsTf-PYDTQB_HQyw6KKA.png" width="96"> | [Crimson Ink Macabre](https://huggingface.co/ilkerzgi/krea-2-crimson-ink-macabre-lora) | `crimson ink macabre style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0b7/_LHw9YZzKcJDwddsZ5ecC_XusjdbcO.jpg" width="96"> | [Crimson Noir Drip](https://huggingface.co/ilkerzgi/krea-2-crimson-noir-drip-lora) | `crimson noir drip style` |
+| <img src="https://v3b.fal.media/files/b/0a9f9de5/lQsOB5nLtnpPgQ1ozxeLR_ZFg0P8aV.png" width="96"> | [Crimson Silkscreen Ink](https://huggingface.co/ilkerzgi/krea-2-crimson-silkscreen-ink-lora) | `crimson silkscreen ink style` |
+| <img src="https://v3b.fal.media/files/b/0a9fce82/rsd51nVvQgbShKb7VZvgi_383Jp5H8.jpg" width="96"> | [Crimson Violet Glow](https://huggingface.co/ilkerzgi/krea-2-crimson-violet-glow-lora) | `crimson violet glow style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcf7f/_Yw5bp4TbrtKKBf_9weI2_glI60NhJ.jpg" width="96"> | [Cyan Monochrome Dreamscape](https://huggingface.co/ilkerzgi/krea-2-cyan-monochrome-dreamscape-lora) | `cyan monochrome dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fa239/MC73xro8aNSrmLn45Ly6Z_aWGZ5D7I.png" width="96"> | [Cyan Violet Ink Splash](https://huggingface.co/ilkerzgi/krea-2-cyan-violet-ink-splash-lora) | `cyan violet ink splash style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd1cd/31K-aVN3Epzmaqh2kBA40_nABXTkRu.jpg" width="96"> | [Dark Academic Oil Portrait](https://huggingface.co/ilkerzgi/krea-2-dark-academic-oil-portrait-lora) | `dark academic oil portrait style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0a9/sjUnBV608UjN0fWHeTXYr_9s50YFDX.jpg" width="96"> | [Dark Chiaroscuro Nocturne](https://huggingface.co/ilkerzgi/krea-2-dark-chiaroscuro-nocturne-lora) | `dark chiaroscuro nocturne style` |
 
 ## Photographic
 
@@ -329,6 +356,11 @@ print(result["images"][0]["url"])
 | <img src="https://v3b.fal.media/files/b/0a9fc9e8/cq5Q690cqesS3p5k1iBpD_JodoQG5u.jpg" width="96"> | [Cold Blue Fog](https://huggingface.co/ilkerzgi/krea-2-cold-blue-fog-lora) | `cold blue fog style` |
 | <img src="https://v3b.fal.media/files/b/0a9fc0c2/w2yT62dDxhw8T05V4N3aY_yL4od28A.jpg" width="96"> | [Cool Blue Film Grain](https://huggingface.co/ilkerzgi/krea-2-cool-blue-film-grain-lora) | `cool blue film grain style` |
 | <img src="https://v3b.fal.media/files/b/0a9fce33/DpzYKaoEuNUIoLZAmEjKA_hfizidCe.jpg" width="96"> | [Cool Bokeh Dusk](https://huggingface.co/ilkerzgi/krea-2-cool-bokeh-dusk-lora) | `cool bokeh dusk style` |
+| <img src="https://v3b.fal.media/files/b/0a9fcb4b/Wozyg53Lb-lr8_YcqzSri_5JNmUXIO.jpg" width="96"> | [Crimson Fog Dreamscape](https://huggingface.co/ilkerzgi/krea-2-crimson-fog-dreamscape-lora) | `crimson fog dreamscape style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd0f9/eVjqGzqlUdH0C5xaHMFnb_Xlqh8S8m.jpg" width="96"> | [Cyan Amber Slide Film](https://huggingface.co/ilkerzgi/krea-2-cyan-amber-slide-film-lora) | `cyan amber slide film style` |
+| <img src="https://v3b.fal.media/files/b/0a9fca9a/FoSzJo6zFXtMo8imhbCi0_BZZCtIxi.jpg" width="96"> | [Cyan Fog Orange Surreal](https://huggingface.co/ilkerzgi/krea-2-cyan-fog-orange-surreal-lora) | `cyan fog orange surreal style` |
+| <img src="https://v3b.fal.media/files/b/0a9fd0f9/GZS5XqxaH_ZujmRTV0Iou_cfCGvQQW.jpg" width="96"> | [Cyan Red Motion Blur](https://huggingface.co/ilkerzgi/krea-2-cyan-red-motion-blur-lora) | `cyan red motion blur style` |
+| <img src="https://v3b.fal.media/files/b/0a9fc0aa/hzQsLNfg9PlRABGFjwj_h_2ih8OOEs.jpg" width="96"> | [Cyan Yellow Duochrome](https://huggingface.co/ilkerzgi/krea-2-cyan-yellow-duochrome-lora) | `cyan yellow duochrome style` |
 
 ## License
 
